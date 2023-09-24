@@ -1,0 +1,17 @@
+Java COIN Ledger
+
+Sun Dec 05 14:31:57 PST 2021
+Bought: 0.7 BTC
+For: $35054.12
+ 
+Sun Dec 05 14:32:07 PST 2021
+Bought: 1.0 ETH
+For: $3962.12
+ 
+Sun Dec 05 14:32:18 PST 2021
+Sold: 0.3 BTC
+For: $16445.16
+ 
+Sun Dec 05 14:32:40 PST 2021
+Sold: 0.6 ETH
+For: $2442.46
